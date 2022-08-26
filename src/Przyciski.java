@@ -9,7 +9,7 @@ public class Przyciski {
 		przycisk.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				przycisk.setText(TekstButton);
-				
+				//8888
 			}
 		});
 	
